@@ -1,0 +1,3 @@
+FROM example.com/test/supervisor:latest
+
+ENTRYPOINT [ "/foo/app1" ]
